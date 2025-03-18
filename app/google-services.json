@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344913799304",
+    "project_id": "music-player-b164b",
+    "storage_bucket": "music-player-b164b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344913799304:android:407b1ba1e74f7af8be973d",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.musicPlayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUcXQf9DyfD6a4H3-wKPXSegxkiH6HysM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
